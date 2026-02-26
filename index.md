@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Ankit Mehta
 ---
 
 I'm an **Assistant Professor at [Sitare University](https://sitare.org)**, where I teach Computer Science to underprivileged students helping bridge the gap between talent and opportunity in India.
