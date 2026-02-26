@@ -1,0 +1,8 @@
+title: Ankit Mehta
+description: Assistant Professor | CS | Distributed Systems | Theoretical CS
+url: "https://ankitmehta.github.io"
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
