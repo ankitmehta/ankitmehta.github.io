@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-<img src="assets/images/1647239355615.jpg" alt="Ankit Mehta" width="200" style="border-radius: 50%;">
+<img src="assets/images/1647239355615.jpeg" alt="Ankit Mehta" width="200" style="border-radius: 50%;">
 I'm an **Assistant Professor at [Sitare University](https://univ.sitare.org)**, where I teach Computer Science to underprivileged students helping bridge the gap between talent and opportunity in India.
 
 Before academia, I spent ~10 years as a software engineer at **Amazon, Google, Flipkart and Meta**, building large-scale backend and distributed systems.
