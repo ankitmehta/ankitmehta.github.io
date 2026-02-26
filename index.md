@@ -3,8 +3,6 @@ layout: home
 title: Ankit Mehta
 ---
 
-# Hi, I'm Ankit Mehta 👋
-
 I'm an **Assistant Professor at [Sitare University](https://sitare.org)**, where I teach Computer Science to underprivileged students helping bridge the gap between talent and opportunity in India.
 
 Before academia, I spent ~10 years as a software engineer at **Amazon, Google, Flipkart and Meta**, building large-scale backend and distributed systems.
