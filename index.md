@@ -4,7 +4,7 @@ layout: home
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <img src="assets/images/profile.jpg" alt="Ankit Mehta" width="180" style="border-radius: 50%; flex-shrink: 0;">
   <div>
-    <p>I'm an <strong>Assistant Professor at <a href="https://sitare.org">Sitare University</a></strong>, where I teach Computer Science to underprivileged students — helping bridge the gap between talent and opportunity in India.</p>
+    <p>I'm an <strong>Assistant Professor at <a href="https://univ.sitare.org">Sitare University</a></strong>, where I teach Computer Science to underprivileged students — helping bridge the gap between talent and opportunity in India.</p>
     <p>Before academia, I spent ~10 years as a software engineer at Amazon, Flipkart, Google and Meta, building large-scale backend and distributed systems.</p>
     <p>I hold a <strong>B.E. in Computer Science and M.Sc. in Mathematics from BITS Pilani</strong> (2012).</p>
   </div>
